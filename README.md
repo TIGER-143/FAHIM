@@ -17,9 +17,9 @@ mechanize pip
 
 install bs4 
 
-pkg install 
+pkg install git 
 
-git rm -rf FAHIM
+rm -rf FAHIM
 git clone --depth=1 https://github.com/TIGER-143/FAHIM
 cd FAHIM
 git pull
